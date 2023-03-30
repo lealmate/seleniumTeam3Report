@@ -9,6 +9,7 @@
         <module name="untitled" />
         <module name="test-youtube-with-selenium-general-ginger4477" />
         <module name="YoutubeSelenium" />
+        <module name="forReport" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

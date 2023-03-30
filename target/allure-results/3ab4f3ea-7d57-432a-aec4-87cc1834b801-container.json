@@ -1,0 +1,1 @@
+{"uuid":"3ab4f3ea-7d57-432a-aec4-87cc1834b801","name":"theaterModeTest()","children":["2b720017-8b9e-45ed-93e8-dc840840eba2"],"befores":[{"name":"init","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1680193771247,"stop":1680193771802}],"afters":[],"links":[],"start":1680193771246,"stop":1680193784089}

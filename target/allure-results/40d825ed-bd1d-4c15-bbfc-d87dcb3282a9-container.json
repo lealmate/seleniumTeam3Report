@@ -1,0 +1,1 @@
+{"uuid":"40d825ed-bd1d-4c15-bbfc-d87dcb3282a9","name":"miniplayerTest()","children":["68baf105-fa92-44dc-975e-3ab5bec658cf"],"befores":[{"name":"init","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1680193718110,"stop":1680193718715}],"afters":[],"links":[],"start":1680193718108,"stop":1680193730980}
